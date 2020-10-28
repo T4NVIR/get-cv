@@ -1,0 +1,25 @@
+.container {
+  margin: 8% 10%;
+}
+
+#heading {
+  color: seagreen;
+  background-color: white;
+}
+.table {
+  widows: 100%;
+  width: 100%;
+  text-align: left;
+}
+.table tr {
+  width: 100%;
+  font-size: 12px;
+  letter-spacing: -0.3px;
+}
+.table tr :hover {
+  background-color: seagreen;
+  color: white;
+  opacity: 0.8;
+  border-radius: 10px;
+  text-align: center;
+}
